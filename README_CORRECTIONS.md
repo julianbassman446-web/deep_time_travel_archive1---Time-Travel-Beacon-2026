@@ -133,3 +133,23 @@ The central request remains: investigate whether a safe, scientifically defensib
 If the proposed technology proves impossible, document why. If alternative approaches become scientifically credible, evaluate them responsibly.
 
 The original mission is preserved. Scientific accuracy, human safety, privacy, and respect for others take priority.
+
+TIME TRAVEL BEACON — LONG-TERM RESEARCH ARCHIVE
+
+⚠️ IMPORTANT: READ THE CORRECTIONS FIRST
+
+Please read README_CORRECTIONS.md before interpreting the original archive materials.
+
+Mission target: November 1, 2026 — 12:00 a.m. EDT
+
+This repository preserves a hypothetical research proposal for future scientists, physicists, engineers, and researchers, including those in 20,005 AD.
+
+Its central request is to investigate whether backward time travel, safe human transportation, and a limited personal do-over could ever become scientifically possible.
+
+The archive includes proposed research concerning spacetime geometry, wormholes, quantum information, warp-bubble concepts, macroengineering, and Temporal GIS safety systems.
+
+These are research proposals, not demonstrated technologies. No successful time-travel mechanism or human teleportation capability is claimed.
+
+All future investigation must respect scientific evidence, applicable law, human safety, privacy, consent, and independent oversight.
+
+The original materials are preserved as historical records. Consult the corrections document when interpreting conflicting or outdated instructions.
