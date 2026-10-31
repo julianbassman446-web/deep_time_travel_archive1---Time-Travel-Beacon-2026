@@ -5,9 +5,9 @@ November 1st, 2026 — 12:00 AM EDT
 Time-Travel Beacon Mission Proposal
 
 Project: Deep Time Travel Archive — Time-Travel Beacon 2026
-Target date: October 26, 2026
+Target date: November 1st, 2026
 Target time: 12:00 AM Eastern Daylight Time (EDT, UTC−4)
-Equivalent UTC time: October 16, 2026, at 04:00 UTC
+Equivalent UTC time: November 1st, 2026, at 04:00 UTC
 Future research horizon: 20,005 AD
 Status: Proposed research mission; backward time travel has not been demonstrated.
 
