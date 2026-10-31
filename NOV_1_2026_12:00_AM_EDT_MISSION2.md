@@ -535,3 +535,6 @@ My goal is to explore whether a safe and ethically responsible personal do-over 
 If the original approaches are impossible, I hope future researchers will explain why and consider alternatives supported by evidence. If any part of the proposal proves useful, I hope it can contribute to a clearer understanding of the underlying scientific questions.
 
 This archive is a record of a request and a research objective. Its value lies in preserving the questions, assumptions, and ethical intentions for future evaluation—not in claiming that the mission has already been accomplished.
+
+
+
